@@ -148,15 +148,6 @@ Masuk ke CLI Mininet
 pingall
 ```
 
-Contoh hasil:
-
-```
-*** Ping: testing ping reachability
-h1 -> h2 h3 h4 h5 h6 h7 h8 server
-...
-*** Results: 0% dropped
-```
-
 ---
 
 ## 📌 Fitur
@@ -189,41 +180,6 @@ Parameter yang diuji:
 
 ---
 
-## 📷 Screenshot
-
-Tambahkan screenshot hasil project pada folder berikut:
-
-```
-screenshots/
-```
-
-Contoh:
-
-```
-screenshots/
-├── topology.png
-├── pingall.png
-├── controller.png
-└── mininet.png
-```
-
-Lalu tampilkan pada README.
-
-```md
-## Topology
-
-![Topology](screenshots/topology.png)
-
-## Ping Test
-
-![Ping](screenshots/pingall.png)
-
-## Controller
-
-![Controller](screenshots/controller.png)
-```
-
----
 
 ## 📚 Konsep yang Dipelajari
 
